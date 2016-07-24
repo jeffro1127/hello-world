@@ -1,2 +1,3 @@
 # hello-world
-Repository tutorial from github guides
+
+Well, now here's just one example of what you can do on GitHub.
